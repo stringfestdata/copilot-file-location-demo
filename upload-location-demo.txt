@@ -1,0 +1,7 @@
+COPILOT FILE LOCATION DEMO
+Fictional training data
+
+Source marker: ORIGINAL UPLOAD
+Reporting month: November 2026
+Travel variance: $5,000 under budget
+Explanation: The supplier visit was postponed to December. This is a timing difference, not a recurring saving.
